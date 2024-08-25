@@ -52,5 +52,6 @@ const createIndex = async (db) => {
         throw new ApplicationError(`createIndexError: ${err.message}`)
     }
     console.log("Indexes are created")
+    console.log("Indexes are created")
 }
 
