@@ -1,0 +1,51 @@
+ProductController
+1. Get Products - Done
+2. Add a Product - Done
+3. Get one Product - Done
+4. filter Product - Done
+
+{userController
+signup - Email, name, password, typeOfuser( costumer, seller ) - Done
+signin - Email, password - Done}
+Authentication - Done
+
+5. Rate Product 
+6. Add item to Cart 
+7. Get item of Cart 
+8. Remove item from cart 
+
+Aggregation pipeline Insidess:-
+1. AveragePrice (In Product repository)
+2. Find average rating of a Product
+
+db.Products.aggregate({
+    // 1.  create documents for ratings.
+    {
+        $umwind: "$ratings"
+    },
+    // 2. Group rating per Product and then average.
+    {
+        $group: {
+            _id: "$name",
+            averageRating: {$avg: "$ratings,rating"}
+            }
+    }
+})
+
+3. count of ratings in individual Product.
+
+db.Products.aggregate([
+    // 1. Project the name of Product, and countOfRating
+    {
+        $peoject: {name:1, countOfRating:{#cond:if:{$isArray:"$ratings"}, 
+        then:{$size: "$ratings"}, else:0}}
+    },
+    // 2. Sort countOfRating.
+    {
+        $sort:{countOfRating:-1} // decending order
+    },
+    // 3. limit to just 1 item in the result.
+    {
+        $limit:1
+    }
+])

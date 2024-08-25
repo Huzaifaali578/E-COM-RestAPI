@@ -1,0 +1,2 @@
+1. create counter (_id: "cartItems", value:0);
+2. while adding cart item, Increament the counter and then use counter value asid to cartItem document.

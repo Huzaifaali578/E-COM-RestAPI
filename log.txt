@@ -1,0 +1,328 @@
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:24:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password3\"}","timestamp":"Thu Aug 15 2024 13:24:39 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\"}","timestamp":"Thu Aug 15 2024 13:24:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:25:32 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\"}","timestamp":"Thu Aug 15 2024 13:27:12 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:27:30 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"ENOENT: no such file or directory, open 'F:\\Coding Ninjas - BeckEnd Projects\\E-com-API\\uploads\\2024-08-15T07:57:30.037Zproduct 1.jpg'","request Method":"POST","request URL":"/api/products/"},"timestamp":"Thu Aug 15 2024 13:27:30 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:31:37 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"ENOENT: no such file or directory, open 'F:\\Coding Ninjas - BeckEnd Projects\\E-com-API\\uploads\\2024-08-15T08:01:37.105Zproduct 1.jpg'","request Method":"POST","request URL":"/api/products/"},"timestamp":"Thu Aug 15 2024 13:31:37 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:38:31 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:39:46 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:42:07 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:44:01 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:45:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:45:55 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:47:40 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:48:51 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:51:46 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:54:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:56:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:59:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 13:59:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:00:46 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:04:38 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:05:27 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:05:48 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:09:50 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:11:19 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Thu Aug 15 2024 14:12:15 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:12:31 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:14:42 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:18:24 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:19:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:19:44 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:21:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:21:53 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbcb6dbb3e3c6bdd29440 - {}","timestamp":"Thu Aug 15 2024 14:30:15 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:30:45 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/%2266bdbd9edbb3e3c6bdd29441%22 - {}","timestamp":"Thu Aug 15 2024 14:31:04 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdbd9edbb3e3c6bdd29441 - {}","timestamp":"Thu Aug 15 2024 14:31:52 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:33:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:34:04 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/66bdc47ca97fb6d5c3df4615 - {}","timestamp":"Thu Aug 15 2024 14:34:27 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?minPrice=50 - {}","timestamp":"Thu Aug 15 2024 14:59:08 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:59:34 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 14:59:39 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?minPrice=350 - {}","timestamp":"Thu Aug 15 2024 15:00:18 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:01:06 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Thu Aug 15 2024 15:03:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Thu Aug 15 2024 15:03:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:05:29 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:06:44 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:07:31 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:08:40 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:09:37 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:11:00 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:16:42 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Thu Aug 15 2024 15:17:10 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:17:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:18:47 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:19:32 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:22:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700&minPrice=500 - {}","timestamp":"Thu Aug 15 2024 15:23:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700&minPrice=500 - {}","timestamp":"Thu Aug 15 2024 15:24:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=400&minPrice=300 - {}","timestamp":"Thu Aug 15 2024 15:24:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700 - {}","timestamp":"Thu Aug 15 2024 15:25:12 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700&minPrice=300 - {}","timestamp":"Thu Aug 15 2024 15:25:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700&minPrice=300 - {}","timestamp":"Thu Aug 15 2024 15:25:44 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=700&minPrice=500 - {}","timestamp":"Thu Aug 15 2024 15:26:05 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Thu Aug 15 2024 16:20:41 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate?productID=66bdbcb6dbb3e3c6bdd29440&rating=5 - {}","timestamp":"Thu Aug 15 2024 16:21:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate?productID=66bdbcb6dbb3e3c6bdd29440&rating=5 - {}","timestamp":"Thu Aug 15 2024 16:23:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Thu Aug 15 2024 16:28:04 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate?productID=66bdbcb6dbb3e3c6bdd29440&rating=5 - {}","timestamp":"Thu Aug 15 2024 16:28:36 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate?productID=66bdbd9edbb3e3c6bdd29441&rating=4 - {}","timestamp":"Thu Aug 15 2024 16:29:34 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate?productID=66bdbd9edbb3e3c6bdd29441&rating=4 - {}","timestamp":"Thu Aug 15 2024 16:37:18 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 08:38:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":3.5}","timestamp":"Fri Aug 16 2024 08:39:09 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":3.5}","timestamp":"Fri Aug 16 2024 08:59:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":4}","timestamp":"Fri Aug 16 2024 09:03:51 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":4}","timestamp":"Fri Aug 16 2024 09:06:10 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":6}","timestamp":"Fri Aug 16 2024 09:06:32 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\"}","timestamp":"Fri Aug 16 2024 09:07:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":4.5}","timestamp":"Fri Aug 16 2024 09:07:26 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":3.6}","timestamp":"Fri Aug 16 2024 09:08:01 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\"}","timestamp":"Fri Aug 16 2024 11:16:46 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":4.7}","timestamp":"Fri Aug 16 2024 11:17:18 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 11:17:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":3.8}","timestamp":"Fri Aug 16 2024 11:18:28 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Fri Aug 16 2024 11:19:07 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 12:07:19 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":3}","timestamp":"Fri Aug 16 2024 12:09:45 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":3}","timestamp":"Fri Aug 16 2024 12:13:24 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":3}","timestamp":"Fri Aug 16 2024 12:14:50 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":3}","timestamp":"Fri Aug 16 2024 12:16:25 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":3}","timestamp":"Fri Aug 16 2024 12:17:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:17:48 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:20:09 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:29:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 12:30:37 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:30:47 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:30:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:32:00 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":7}","timestamp":"Fri Aug 16 2024 12:33:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":7}","timestamp":"Fri Aug 16 2024 12:33:23 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":7}","timestamp":"Fri Aug 16 2024 12:34:10 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\"}","timestamp":"Fri Aug 16 2024 12:42:18 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"cartItemController.remove is not a function","request Method":"DELETE","request URL":"/api/cartItems"},"timestamp":"Fri Aug 16 2024 12:42:18 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\"}","timestamp":"Fri Aug 16 2024 12:44:26 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\"}","timestamp":"Fri Aug 16 2024 12:46:47 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":7}","timestamp":"Fri Aug 16 2024 12:47:31 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 12:47:42 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5.6}","timestamp":"Fri Aug 16 2024 12:48:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 12:48:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 12:48:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 12:49:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 13:11:55 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/66befd0b12dc4f62884c54ad - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 13:12:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\"}","timestamp":"Fri Aug 16 2024 13:12:47 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/66befd0b12dc4f62884c54ad - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 13:13:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/66befd1612dc4f62884c54ae - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 13:13:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 13:13:36 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/66befd1612dc4f62884c54ae - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3.5}","timestamp":"Fri Aug 16 2024 13:13:59 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Fri Aug 16 2024 13:27:39 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":3}","timestamp":"Fri Aug 16 2024 13:27:58 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":2}","timestamp":"Fri Aug 16 2024 13:29:34 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":1}","timestamp":"Fri Aug 16 2024 13:30:33 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 13:30:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 13:32:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":2}","timestamp":"Fri Aug 16 2024 13:32:30 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbde4dbb3e3c6bdd29443\",\"quantity\":2}","timestamp":"Fri Aug 16 2024 13:33:06 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbde4dbb3e3c6bdd29443\",\"quantity\":4}","timestamp":"Fri Aug 16 2024 13:33:24 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbde4dbb3e3c6bdd29443\",\"quantity\":4}","timestamp":"Fri Aug 16 2024 13:33:42 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/ - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 13:33:58 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems/66bf07880036074730160a32 - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Fri Aug 16 2024 13:34:25 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Sat Aug 17 2024 13:30:51 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:31:38 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:36:05 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:37:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:38:17 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 13:38:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:43:39 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 13:43:39 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:45:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:50:20 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 13:50:20 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:52:56 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 13:52:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 13:56:19 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 13:56:19 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Sat Aug 17 2024 14:03:58 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:04:15 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:04:15 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:08:04 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:08:04 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:09:14 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:09:14 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:12:36 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:18:40 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:18:40 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:22:23 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:22:23 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:26:02 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:26:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:27:34 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:27:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:28:18 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:28:19 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:34:28 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:34:28 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:36:20 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:36:20 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:37:18 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:37:18 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:37:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:39:12 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:39:29 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbdcfdbb3e3c6bdd29442\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:40:01 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbdcfdbb3e3c6bdd29442\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:47:13 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/cartItems"},"timestamp":"Sat Aug 17 2024 14:47:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbdcfdbb3e3c6bdd29442\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:48:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbdcfdbb3e3c6bdd29442\",\"quantity\":5}","timestamp":"Sat Aug 17 2024 14:48:38 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Sun Aug 18 2024 11:16:08 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/average - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Sun Aug 18 2024 11:16:50 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/average - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Sun Aug 18 2024 11:20:12 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/average - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Sun Aug 18 2024 11:21:23 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/AveragePrice - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Sun Aug 18 2024 11:26:14 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/AveragePrice - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Sun Aug 18 2024 11:28:01 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Sun Aug 18 2024 17:05:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66bdbd9edbb3e3c6bdd29441\",\"quantity\":2}","timestamp":"Sun Aug 18 2024 17:06:48 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:08:12 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:09:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:09:35 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:10:55 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:11:51 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:13:08 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:18:34 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:27:55 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:28:29 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:29:39 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:30:21 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Somethis went worng","request Method":"POST","request URL":"/api/order"},"timestamp":"Sun Aug 18 2024 17:30:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:31:10 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:32:20 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:36:08 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Sun Aug 18 2024 17:37:05 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Somethis went worng","request Method":"POST","request URL":"/api/order"},"timestamp":"Sun Aug 18 2024 17:37:05 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Mon Aug 19 2024 11:43:40 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 11:44:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 11:46:03 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Somethis went worng","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 11:46:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 11:46:27 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 11:49:42 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Somethis went worng","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 11:49:42 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:29:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:33:27 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:34:25 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:35:28 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:47:54 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Mon Aug 19 2024 12:48:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:48:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:57:16 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Somethis went worng","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 12:57:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 12:57:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 13:00:33 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 13:33:28 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 13:33:28 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 13:34:41 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 13:35:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 13:36:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:42:31 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Mon Aug 19 2024 15:42:41 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Mon Aug 19 2024 15:43:14 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\",\"name\":\"Seller User 2\",\"type\":\"Seller\"}","timestamp":"Mon Aug 19 2024 15:43:38 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller1@ecom.com\",\"password\":\"Password1\"}","timestamp":"Mon Aug 19 2024 15:43:53 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:49:14 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:49:50 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Mon Aug 19 2024 15:50:10 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:50:25 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:51:38 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:52:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/ - {}","timestamp":"Mon Aug 19 2024 15:52:34 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=300&minPrice=100 - {}","timestamp":"Mon Aug 19 2024 15:53:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/filter?maxPrice=300&minPrice=100 - {}","timestamp":"Mon Aug 19 2024 15:53:40 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/AveragePrice - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Mon Aug 19 2024 15:54:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/AveragePrice - {\"productID\":\"66bdbcb6dbb3e3c6bdd29440\",\"rating\":5}","timestamp":"Mon Aug 19 2024 15:54:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"quantity\":1}","timestamp":"Mon Aug 19 2024 15:54:59 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"66c31c464de4e4a7b0d28a90\",\"quantity\":1}","timestamp":"Mon Aug 19 2024 15:55:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 15:56:01 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 15:56:01 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 17:54:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"seller2@ecom.com\",\"password\":\"Password2\"}","timestamp":"Mon Aug 19 2024 17:54:09 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 17:54:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 17:54:35 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"session is not defined","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 17:54:35 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/order - {}","timestamp":"Mon Aug 19 2024 17:58:10 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong while placing the order.","request Method":"POST","request URL":"/api/order"},"timestamp":"Mon Aug 19 2024 17:58:10 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 2\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:22:19 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:23:05 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:25:15 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:25:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:26:23 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:26:24 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:29:06 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:29:06 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:30:19 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:30:20 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:32:13 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed:- User already exists","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:32:13 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:34:43 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed:- hahaha","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:34:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:36:02 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed:- hahaha","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:36:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:37:38 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed:- User already exists","request Method":"POST","request URL":"/api/users/signup"},"timestamp":"Tue Aug 20 2024 11:37:39 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:40:02 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed:- User already exists","request Method":"POST","request URL":"/api/users/signup","stack trace":"Error: SignUp Failed:- User already exists\n    at UserRepository.signUp (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.repository.js:23:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async UserController.signUp (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.controller.js:22:7)"},"timestamp":"Tue Aug 20 2024 11:40:02 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\",\"name\":\"Seller User 1\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:40:33 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignUp Failed:- hahah","request Method":"POST","request URL":"/api/users/signup","stack trace":"Error: SignUp Failed:- hahah\n    at UserRepository.signUp (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.repository.js:23:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async UserController.signUp (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.controller.js:22:7)"},"timestamp":"Tue Aug 20 2024 11:40:33 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"batul@ecom.com\",\"password\":\"batul\",\"name\":\"Seller User 2\",\"type\":\"Seller\"}","timestamp":"Tue Aug 20 2024 11:41:11 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\"}","timestamp":"Tue Aug 20 2024 11:42:56 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"SignIn Failed","request Method":"POST","request URL":"/api/users/signin","stack trace":"Error: SignIn Failed\n    at UserRepository.signIn (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.repository.js:32:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async UserController.signIn (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.controller.js:36:22)"},"timestamp":"Tue Aug 20 2024 11:42:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\"}","timestamp":"Tue Aug 20 2024 11:43:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\"}","timestamp":"Tue Aug 20 2024 11:46:03 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"huzaifa@ecom.com\",\"password\":\"Huzaifa\"}","timestamp":"Tue Aug 20 2024 14:15:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"batul@ecom.com\",\"password\":\"butul\"}","timestamp":"Tue Aug 20 2024 14:15:37 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"batul@ecom.com\",\"password\":\"batul\"}","timestamp":"Tue Aug 20 2024 14:15:58 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/resetPassword - {\"newPassword\":\"Batul\"}","timestamp":"Tue Aug 20 2024 14:17:21 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong password not changed","request Method":"PUT","request URL":"/api/users/resetPassword","stack trace":"Error: Something went wrong password not changed\n    at UserRepository.resetPassword (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.repository.js:15:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async UserController.resetPassword (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.controller.js:16:7)"},"timestamp":"Tue Aug 20 2024 14:17:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/resetPassword - {\"newPassword\":\"Batul\"}","timestamp":"Tue Aug 20 2024 14:18:47 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong password not changed","request Method":"PUT","request URL":"/api/users/resetPassword","stack trace":"Error: Something went wrong password not changed\n    at UserRepository.resetPassword (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.repository.js:16:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async UserController.resetPassword (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.controller.js:16:7)"},"timestamp":"Tue Aug 20 2024 14:18:48 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/resetPassword - {\"newPassword\":\"Batul\"}","timestamp":"Tue Aug 20 2024 14:21:47 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong password not changed","request Method":"PUT","request URL":"/api/users/resetPassword","stack trace":"Error: Something went wrong password not changed\n    at UserRepository.resetPassword (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.repository.js:19:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async UserController.resetPassword (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/user/user.controller.js:16:7)"},"timestamp":"Tue Aug 20 2024 14:21:48 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/resetPassword - {\"newPassword\":\"Batul\"}","timestamp":"Tue Aug 20 2024 14:22:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"batul@ecom.com\",\"password\":\"batul\"}","timestamp":"Tue Aug 20 2024 14:22:33 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"batul@ecom.com\",\"password\":\"Batul\"}","timestamp":"Tue Aug 20 2024 14:22:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"batul@ecom.com\",\"password\":\"Batul\"}","timestamp":"Wed Aug 21 2024 13:58:06 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":4}","timestamp":"Wed Aug 21 2024 13:59:51 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":4}","timestamp":"Wed Aug 21 2024 14:08:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:10:30 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:11:54 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:13:05 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:16:27 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:17:56 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:19:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:26:21 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/products/rate","stack trace":"Error: Something went wrong\n    at ProductRepository.rateProduct (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/product/product.repository.js:176:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ProductController.rateProduct (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/product/product.controller.js:53:7)"},"timestamp":"Wed Aug 21 2024 14:26:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:27:27 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:27:50 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:29:57 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:30:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:33:09 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:35:48 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:38:36 GMT+0530 (India Standard Time)"}
+{"level":"error","message":{"error message":"Something went wrong","request Method":"POST","request URL":"/api/products/rate","stack trace":"Error: Something went wrong\n    at ProductRepository.rateProduct (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/product/product.repository.js:180:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ProductController.rateProduct (file:///F:/Coding%20Ninjas%20-%20BeckEnd%20Projects/E-com-API/src/features/product/product.controller.js:53:7)"},"timestamp":"Wed Aug 21 2024 14:38:36 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":3}","timestamp":"Wed Aug 21 2024 14:39:43 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"66c31c224de4e4a7b0d28a8f\",\"rating\":5}","timestamp":"Wed Aug 21 2024 14:40:21 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/users/signin - {\"email\":\"batul@ecom.com\",\"password\":\"Batul\"}","timestamp":"Thu Aug 22 2024 13:22:51 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:26:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:30:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:33:16 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:34:49 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:35:22 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:37:35 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:38:19 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:40:08 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:41:17 GMT+0530 (India Standard Time)"}
+{"level":"info","message":"/api/products - {}","timestamp":"Thu Aug 22 2024 13:43:24 GMT+0530 (India Standard Time)"}
