@@ -8,7 +8,7 @@ export default class LikeRepository {
     async getLike(type, id) {
         try {
             return await likeModel.find({
-                likeable: new ObjectId(id);
+                likeable: new ObjectId(id),
                 types: type
             }).populate('user').populate({path: "likeable", model: type})
         } catch (err) {
