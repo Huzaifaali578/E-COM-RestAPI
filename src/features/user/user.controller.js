@@ -1,4 +1,3 @@
-import UserModel from './user.model.js';
 import jwt from 'jsonwebtoken';
 import UserRepository from './user.repository.js';
 import bcrypt from 'bcrypt';
@@ -29,10 +28,10 @@ export default class UserController {
       const hashedPassword = await bcrypt.hash(password, 12);
 
       // Create a new user model
-      const user = new UserModel(name, email, hashedPassword, type);
+      // const user = new UserModel(name, email, hashedPassword, type);
 
       // Save the user to the repository
-      await this.userRepository.signUp(user);
+      const user = await this.userRepository.signUp(name, email, hashedPassword, type);
 
       res.status(201).send(user);
     } catch (err) {

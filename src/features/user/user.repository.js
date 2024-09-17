@@ -20,16 +20,16 @@ export default class UserRepository {
         }
     }
     
-    async signUp(user) {
+    async signUp(name, email, password, type) {
         try {
             // Check if user with the same email already exists
-            const existingUser = await userModel.findOne({ email: user.email });
+            const existingUser = await userModel.findOne({email});
             if (existingUser) {
                 throw new ApplicationError('User already exists', 400);
             }
 
             // Create instance of model
-            const newUser = new userModel(user);
+            const newUser = new userModel({name, email, password, type});
             await newUser.save();
             return newUser;
         } catch (err) {
